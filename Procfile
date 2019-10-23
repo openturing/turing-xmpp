@@ -1,0 +1,1 @@
+web: java -jar build/libs/turing-0.1.0.jar
